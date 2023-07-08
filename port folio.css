@@ -71,10 +71,25 @@ nav li{
     padding: 30px;
     gap: 24px;
 }
-.last-section{
-    padding: 10px 100px;
+.last-section{ */
+    padding: 10px 170px;
+    back
 }
 
+.last-selection{
+ background-image:  url('./images/watch.png');
 
+ background-repeat: no-repeat;
+ border-radius: 8px;
+ /* background-attachment: fixed; */
+ /* background-size: cover; */
+ 
+ 
+ 
+    height: 500px;
+    padding: 10px 200px;
+    
+    
+}
 
 
