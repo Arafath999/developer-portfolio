@@ -62,7 +62,18 @@ nav li{
     text-align: center;
 
 }
-
+.skill-container{
+    display: flex;
+    /* margin: 100px; */
+    padding: 10px 400px;
+}
+.skill{
+    padding: 30px;
+    gap: 24px;
+}
+.last-section{
+    padding: 10px 100px;
+}
 
 
 
